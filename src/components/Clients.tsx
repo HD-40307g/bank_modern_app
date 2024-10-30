@@ -1,9 +1,9 @@
 import React from 'react'
 
-const  = () => {
+const Clients = () => {
   return (
-    <div></div>
+    <div>Clients</div>
   )
 }
 
-export default 
+export default Clients;

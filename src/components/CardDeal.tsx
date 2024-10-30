@@ -6,4 +6,4 @@ const CardDeal = () => {
   )
 }
 
-export default CardDeal
+export default CardDeal;
